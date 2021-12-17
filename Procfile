@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn shortener.wshi --log-file=-
+web: gunicorn shortener.wsgi --log-file=-
