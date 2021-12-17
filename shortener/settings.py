@@ -133,4 +133,4 @@ django_heroku.settings(locals())
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # HOST_URL = 'localhost:8000'
-HOST_URL = 'https://shortener-sweeft.herokuapp.com/'
+HOST_URL = 'https://shortener-sweeft.herokuapp.com'
